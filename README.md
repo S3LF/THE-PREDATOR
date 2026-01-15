@@ -60,7 +60,7 @@ The supreme laws governing the system's spirit, boundaries, and operational logi
 
 MIT License
 
-Copyright (c) 2024 S3LF
+Copyright (c) 2026 S3LF
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
