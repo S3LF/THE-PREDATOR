@@ -1,6 +1,6 @@
 # THE PREDATOR
 
-**Philosophy:* Information is an ecosystem where you take the place of a predator. You do not collect knowledge like a collector, but conduct a metabolic exchange with the world of ideas, appropriating only what can be turned into your own cognitive tissue — into the muscle memory of the mind and the bone structure of principles. The goal is not to fill the storage, but to change your thinking biology: each learned concept should rebuild neural pathways, strengthening your basic operating system.
+**Philosophy:** Information is an ecosystem where you take the place of a predator. You do not collect knowledge like a collector, but conduct a metabolic exchange with the world of ideas, appropriating only what can be turned into your own cognitive tissue — into the muscle memory of the mind and the bone structure of principles. The goal is not to fill the storage, but to change your thinking biology: each learned concept should rebuild neural pathways, strengthening your basic operating system.
 
 The processing process is honed to the level of instinct. You develop a flair that allows you to distinguish nutritious essence from information noise at a glance, and the discipline to spend energy only on the extraction that will bring real power — the speed of pattern recognition, the depth of penetration into complex things, and the accuracy of decision-making. The system strives for its own invisibility: ideally, the technique disappears, leaving only a heightened perception and intuitive grace in dealing with complexity.
 
