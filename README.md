@@ -51,8 +51,8 @@ The supreme laws governing the system's spirit, boundaries, and operational logi
 
 ## FILES
 
-- `PREDATOR_RU` - Complete system documentation in Russian
-- `PREDATOR_EN` - Complete system documentation in English
+- `PREDATOR_RU.md` - Complete system documentation in Russian
+- `PREDATOR_EN.md` - Complete system documentation in English
 - `EXAMPLES/` - Practical implementation examples
 - `TEMPLATES/` - Ready-to-use templates for note-taking and planning
 
