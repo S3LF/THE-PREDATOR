@@ -6,8 +6,6 @@ The processing process is honed to the level of instinct. You develop a flair th
 
 Thus, the system is a loop of evolution. You hunt for ideas not for the sake of momentary satiation, but to become a more perfect predator of tomorrow. Each processing cycle is both a practice and an analysis of this practice. The more effectively you assimilate, the better you learn to assimilate, creating a self-reinforcing spiral of intellectual growth, where the tool and the one who uses it transform together, conducting a continuous dialogue with the ever-increasing complexity of the world.
 
----
-
 ## BLOCK I: TACTICS
 
 **Purpose:** Silent and accurate extraction of valuable information from any source with minimal energy consumption. This block is an operational capture cycle aimed at understanding the structure of the material as quickly as possible, highlighting key elements and primary fixation without in-depth analysis. This is the art of intelligent approach and pinpoint strike, where speed and accuracy are more important than exhaustive immersion.
@@ -60,8 +58,6 @@ Example: After three days, you try to remember and write down the three main arg
 - **Assessment of what remains in memory:** An active attempt to reproduce key ideas, structure, and details without prompting, followed by self-verification.
 - **Determination of the need for re-capture:** Making a decision based on the verification results: move to Block II for absorption, repeat the tactical capture of individual fragments, or recognize the material as not valuable enough for further investment.
 
----
-
 ## BLOCK II: ABSORPTION
 
 **Purpose:** Complete disintegration and transformation of the raw material into crystallized principles. This process transforms external knowledge from a state of passive information into active operational rules, ready for immediate application. It is a metabolic cycle where complexity is broken down into elementary entities capable of embedding themselves into cognitive tissue.
@@ -105,8 +101,6 @@ For example: Having learned the principle "feedback is effective when it focuses
 - **Assessment of difficulty and concentration points:** Analysis, which steps proved to be the most difficult in the new context? What aspects of the principle should we focus on first, so that the adaptation is successful? Identifying "bottlenecks" when transferring a skill.
 - **Personalization and customization:** An analysis of exactly how this principle can be adapted to my specific needs, current context, and goals. What needs to be changed, simplified, or enhanced to make it work for me with maximum efficiency and comfort?**
 
----
-
 ## BLOCK III: STORAGE
 
 **Purpose:** Transformation of captured and processed information into structured, living capital that serves as an extension of your thinking. It is a dynamic ecosystem where ideas travel from raw observation to crystallized truth, maturing through natural processing stages and connecting into powerful cognitive networks. The system reflects the evolution of your understanding and grows with your ability to handle complexity.
@@ -148,8 +142,6 @@ Not a single external idea remains in the system in its original form. It should
 **`Sources':** Library of external ideas and reference materials. It doesn't save your original thoughts, but valuable quotes, other people's philosophies, and key ideas from books, articles, and research — always with a clear attribution of the source. It is a raw material for future inspiration and processing, an archive of intellectual influences and starting points for one's own reflections.
 
 **`Archive`:** Storage for inactive but potentially valuable material. Completed projects from `Areas`, outdated versions of notes, processed materials from `Sources` that have lost their relevance, but may be required for historical context or rare cases, are moved here. The information here remains accessible, but does not create noise in the main workspace, ensuring a clean focus.
-
----
 
 ## THE HUNTING PROTOCOL
 
@@ -211,8 +203,6 @@ The final cycle of hunting, in which the isolated principle is integrated into t
 - **Analysis and placement:** Complete analysis of the material for making final decisions. Testing the principle for strength through critical questions ("Under what conditions does it break? What hidden assumptions does it have?") and a strategic assessment ("Where should I put it in the Repository — in the `Concepts`, `Permanent` or `Areas' of the project? What is the next practical step to take with him?").
 - **Return to the material:** Planning for deferred verification and deepening. Setting up a reminder system to return to a processed note at increasing intervals (for example, after 1 week, 1 month) to actively recall it, reevaluate its value, and update connections based on new experiences.
 
----
-
 ### **THE PREDATOR CODE**
 
 **Purpose:** An exhaustive set of supreme laws defining the spirit, boundaries, and operational logic of the system. It is a philosophical constitution and a meta-protocol on which all practical activities are based, from tactical capture to the evolution of thinking itself.
@@ -256,8 +246,6 @@ A real hunt does not end with the preservation of a trophy, but with a change in
 - **Information becomes knowledge only through incarnation into action or the restructuring of a mental model.** Storage without use is hoarding.
 - **The system must improve itself.** Successful hunting should leave a mark in the form of an optimized rule, a new step in the Protocol, or a modified Storage structure.
 - **The ultimate goal is not an ideal system, but an ideally adaptive operator.** The system is a scaffolding that should become unnecessary as the edifice of your thinking grows.
-
----
 
 ## CONCLUSION
 
