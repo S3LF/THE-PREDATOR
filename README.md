@@ -1,6 +1,6 @@
 # THE PREDATOR SYSTEM
 
-A complete cognitive framework for transforming information into personal cognitive power. This system reframes learning and knowledge management as an active, metabolic process—moving beyond passive collection to intelligent predation.
+A complete cognitive framework for transforming information into personal cognitive power. This system reframes learning and knowledge management as an active, metabolic process—moving beyond passive collection to intelligent predation. This system is a synthesis of proven methods: the Feynman method (explanation in simple words), active recall, interval repetition, deep engagement (elaboration), interleaving and etc. Combining them into a single cycle turns disparate techniques into a "metabolism" of ideas.
 
 ## CORE PHILOSOPHY
 
